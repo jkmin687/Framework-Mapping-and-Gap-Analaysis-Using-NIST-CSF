@@ -1,18 +1,20 @@
-# NCSR-Based-Cybersecurity-Maturity-Assessment
-This project is an indepenedent cybersecurity maturity assessment based on the National Cybersecuirty Review (NCSR), a voluntary annual survey aligned with the NIST Cybersecurity Framework (NIST CSF). This assessment evaluates the cybersecurity posture of the University of Califronia System across the five (5) NIST CSF v1.1 Functions: Identify, Protect, Detect, Respond, and Recover.
+# Policy to Framework Traceability and Maturity Assessment: Aligning University of California Systems to NIST CSF 
 
-The NCSR's 108 questions are mapped to NIST CSF categories and subcategories, making it a structered way to evaluate governance, technical controls, risk management practices, operational maturity, and resilience. 
+## Objective
+The goal of this self-led project is to establish auditable policy-to-framework traceability between the University of California System's information security standards and the National Institute of Standards and Technology's Cybersecurity Framework, or NIST CSF (v1.1): the ultimate goal is to create a quantifiable maturity and gap analysis. 
 
-This project is still a work in progress, and I will continue expanding the analysis and visualizations. So far, it has been an excellent hands-on learning experience, especially in:
+## Summary
+
+In this project, I assessed UC System's information security posture against NIST CSF utilizing National Cyber Security Review, or NCSR, methodology and practices. I scoured through UC System's extensive security policies and standards to check and see if that specefic control was satisfied within UC System's publicly established policies, and if so, mapped them to the 108 specific controls (or subcategories) within the 5 functions (Identify, Protect, Detect, Respond, Recover) of NIST CSF. I then gave each policy or standard a maturity score of 1-7 based on the NCSR's maturity scale, depending on how fleshed-out the policy was. Once completed, the contrast of scores provided a convenient and transparent gap analysis of which security areas the UC System exceled in and which areas they needed improvement in. 
+
+It is worth noting that this assessment was conducted using publicly available documentation (e.g., published policies, standards, reports) from the UC Sytem and my own discretion. As I do not have access to internal documents and evidence (e.g., audit logs, incident reports, testing results), or the ability to conduct internal interviews, the maturity scores I assigned are more of a reflection on the formalization of policy rather than operational effectiveness of the secuirty controls. Therefore, the scores represent a policy-based maturity asssessment and should be viewed as an external gap analysis baseline. 
+
+## Skills Learned
+
+This project was extremely robust and something I am both very proud of and glad I did! It truly honed a variety of skills, inclduing:
+
 - Understanding of NIST CSF Functions (Identify, Protect, Detect, Respond, and Recover. Governance as well for v2.0)
-- Evidence collection and mapping to security controls
-- Crosswalking security controls to authoritative sources (policy-to-control mapping)
-- Control scoring and maturity analysis  
-- Data visualization 
-- Open-source intelligence (OSINT) research  
-- Evaluating an organization’s policies and procedures against a security framework  
-- Assessing security control effectiveness and identifying improvement opportunities  
-- Critical thinking and analytical problem-solving in a real-world context
+
 
 
 [View the NCSR Project (CSV within GitHub)](./ncsr_uc_system.csv)
