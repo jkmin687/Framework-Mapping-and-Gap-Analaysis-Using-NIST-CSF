@@ -1,19 +1,24 @@
 # Policy to Framework Traceability and Maturity Assessment: Aligning University of California Systems to NIST CSF 
 
 ## Objective
-The goal of this self-led project is to establish auditable policy-to-framework traceability between the University of California System's information security standards and the National Institute of Standards and Technology's Cybersecurity Framework, or NIST CSF (v1.1): the ultimate goal is to create a quantifiable maturity and gap analysis. 
+The goal of this self-led project is to establish policy-to-framework audit traceability between the University of California System's information security standards and the National Institute of Standards and Technology's Cybersecurity Framework, or NIST CSF (v1.1): the ultimate goal was to create a quantifiable maturity and gap analysis. 
 
 ## Summary
 
-In this project, I assessed UC System's information security posture against NIST CSF utilizing National Cyber Security Review, or NCSR, methodology and practices. I scoured through UC System's extensive security policies and standards to check and see if that specefic control was satisfied within UC System's publicly established policies, and if so, mapped them to the 108 specific controls (or subcategories) within the 5 functions (Identify, Protect, Detect, Respond, Recover) of NIST CSF. I then gave each policy or standard a maturity score of 1-7 based on the NCSR's maturity scale, depending on how fleshed-out the policy was. Once completed, the contrast of scores provided a convenient and transparent gap analysis of which security areas the UC System exceled in and which areas they needed improvement in. 
+In this robust project, I assessed UC System's information security posture against NIST CSF utilizing National Cyber Security Review (NCSR) methodology and practices. I scoured through UC System's extensive security policies and standards to check and see if they had a publicly established policy or standard that addressed that particular control, and if so, mapped them to the 108 specific controls (or subcategories) within the 5 functions (Identify, Protect, Detect, Respond, Recover). 
 
-It is worth noting that this assessment was conducted using publicly available documentation (e.g., published policies, standards, reports) from the UC Sytem and my own discretion. As I do not have access to internal documents and evidence (e.g., audit logs, incident reports, testing results), or the ability to conduct internal interviews, the maturity scores I assigned are more of a reflection on the formalization of policy rather than operational effectiveness of the secuirty controls. Therefore, the scores represent a policy-based maturity asssessment and should be viewed as an external gap analysis baseline. 
+I performed a maturity assessment by assigning a score between (1-7) based on the NCSR's maturity scale, judging the policy's completeness and formalization. Once completed, the automated color-coded scoring provided a convenient and transparent gap analysis, clearly identifying policy gaps and security control deficiencies. These revealed which security areas the UC System excelled in and which areas needed improvement.
 
-## Skills Learned
+It is worth noting that this assessment was conducted using publicly available documentation (e.g., published policies, standards, reports) from the UC Sytem and my own discretion. Because I do not have access to internal documents and evidence (e.g., audit logs, incident reports, testing results), or the ability to conduct internal interviews, the maturity scores I assigned are a reflection on the formalization of policy rather than operational effectiveness of the security controls. Therefore, the scores represent a policy-based maturity assessment.
 
-This project was extremely robust and something I am both very proud of and glad I did! It truly honed a variety of skills, inclduing:
+## Achievements (Skills Developed) 
 
-- Understanding of NIST CSF Functions (Identify, Protect, Detect, Respond, and Recover. Governance as well for v2.0)
+This was such an exciting project that had so many different working parts. The selection of UC System's security posture was for good reason; their broad and established policy library provided excellent exercise for my open-source intelligence skills and served as a tangible example of how each control is addressed in a large enterprise. This spreadsheet is also highly valuable for compliance to other standards and frameworks, as the mapped NIST CSF controls can be readily used to satisfy criteria across multiple frameworks. Here is a compiled list of achievements and skills honed from this experience: 
+
+- Developed a foundational, reusable GRC assessment template based on NIST CSF that can provide rapid controls cross-walking to other standards, including (but not limited to) ISO 27001, SOC 2, HIPPA, and PCI DSS (multi-framework compliance)
+- Authored a clear policy-to-framework control mapping matrix between UC System's security posture to the 108 NIST CSF subcategories (policy management, auditing)
+- Systematically executed a quantitative maturity assessment (using the NCSR 1-7 scale) to determine the effectiveness of security controls; this gave the project an added a layer of risk prioritization rather than just being a one-dimensional compliance checklist (quantitative analysis, risk assessment)
+- Created a color-coded visual gap analysis by identifying policy gaps and areas of weakness across the NIST CSF functions (gap analysis, data visualization)
 
 
 
