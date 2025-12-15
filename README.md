@@ -23,6 +23,7 @@ The selection of UC System's security posture was for good reason; their broad a
 ## Deliverables
 
 - Multi-Framework Compliance
+- Risk Management
 - Policy Management
 - Auditing
 - Quantitative Analysis
