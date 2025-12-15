@@ -30,6 +30,4 @@ The selection of UC System's security posture was for good reason; their broad a
 - Gap Analysis 
 - Data Visualization
 
-[View the NCSR Project (CSV within GitHub)](./ncsr_uc_system.csv)
-
 [View the Full NCSR Project (Google Spreadsheet)](https://docs.google.com/spreadsheets/d/1nocig4Vi5JNqw2B1hXxfaKuHODKgBVV6ihlbz0Tek6k/edit?usp=sharing)
