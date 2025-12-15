@@ -15,10 +15,10 @@ The selection of UC System's security posture was for good reason; their broad a
 
 ## Skills Developed
 
-- Developed a foundational, reusable GRC assessment template based on NIST CSF that can provide rapid controls cross-walking to other standards, including (but not limited to) ISO 27001, SOC 2, HIPAA, and PCI DSS
-- Authored a clear policy-to-framework control mapping matrix between UC System's security posture to the 108 NIST CSF subcategories 
-- Systematically executed a quantitative maturity assessment (using the NCSR 1-7 scale) to determine the effectiveness of security controls; this gave the project an added a layer of risk prioritization rather than just being a one-dimensional compliance checklist 
-- Created a color-coded visual gap analysis by identifying policy gaps and areas of weakness across the NIST CSF functions 
+- Engineered a scalable GRC assessment framework capable of being cross walked to other frameworks (e.g. ISO 27001, NIST SP 800-53) by developing a reusable NIST CSF template to standardize future auditing.
+- Validated University of California’s security posture against 108 NIST CSF v1.1 subcategories by authoring a comprehensive policy-to-control mapping matrix that linked the organizations policies directly to NIST CSF.
+- Transformed compliance data into actionable risk prioritization by executing a quantitative maturity assessment using the NCSR (1-7) scale to measure control effectiveness beyond one-dimensional compliance check-listing.
+- Created a color-coded gap analysis dashboard to facilitate a visualized critical control deficiency and policy gaps display
 
 ## Deliverables
 
