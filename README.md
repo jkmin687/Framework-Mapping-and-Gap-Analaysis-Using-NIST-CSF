@@ -9,18 +9,26 @@ In this robust project, I assessed UC System's information security posture agai
 
 For each subcategory, I performed a maturity assessment by assigning a score between (1-7) based on the NCSR's maturity scale (found on the second tab of the spreadsheet), judging the policy's completeness and formalization. Automated color-coded visuals were added to produce a visual and clear gap analysis, highlighting strengths, weaknesses, and areas requiring improvement across the framework.
 
-It is worth noting that this assessment was conducted using publicly available documentation (e.g., published policies, standards, reports) from the UC Sytem and my own discretion. Because I do not have access to internal documents and evidence (e.g., audit logs, incident reports, testing results), or the ability to conduct internal interviews, the maturity scores I assigned are a reflection on the formalization of policy rather than operational effectiveness of the security controls. Therefore, the scores represent a policy-based maturity assessment.
+It is worth noting that this assessment was conducted using publicly available documentation (e.g., published policies, standards, reports) from the UC Sytem and my own discretion. Because I do not have access to internal documents and evidence (e.g., audit logs, incident reports, testing results), or the ability to conduct internal interviews, the maturity scores I assigned are a reflection on the formalization of policy rather than operational control effectiveness. Therefore, the scores represent a policy-based maturity assessment, not a full operational audit.
 
 The selection of UC System's security posture was for good reason; their broad and established policy library provided excellent exercise for open-source intelligence skills and served as a tangible example of how each control is addressed in a large enterprise. This spreadsheet is also highly valuable for compliance to other standards and frameworks, as the mapped NIST CSF controls can be readily used to satisfy criteria across multiple frameworks. Below is a compiled list of achievements and skills honed from this experience. 
 
-## Achievements (Skills Developed) 
+## Skills Developed
 
-- Developed a foundational, reusable GRC assessment template based on NIST CSF that can provide rapid controls cross-walking to other standards, including (but not limited to) ISO 27001, SOC 2, HIPPA, and PCI DSS (multi-framework compliance)
-- Authored a clear policy-to-framework control mapping matrix between UC System's security posture to the 108 NIST CSF subcategories (policy management, auditing)
-- Systematically executed a quantitative maturity assessment (using the NCSR 1-7 scale) to determine the effectiveness of security controls; this gave the project an added a layer of risk prioritization rather than just being a one-dimensional compliance checklist (quantitative analysis, risk assessment)
-- Created a color-coded visual gap analysis by identifying policy gaps and areas of weakness across the NIST CSF functions (gap analysis, data visualization)
+- Developed a foundational, reusable GRC assessment template based on NIST CSF that can provide rapid controls cross-walking to other standards, including (but not limited to) ISO 27001, SOC 2, HIPAA, and PCI DSS
+- Authored a clear policy-to-framework control mapping matrix between UC System's security posture to the 108 NIST CSF subcategories 
+- Systematically executed a quantitative maturity assessment (using the NCSR 1-7 scale) to determine the effectiveness of security controls; this gave the project an added a layer of risk prioritization rather than just being a one-dimensional compliance checklist 
+- Created a color-coded visual gap analysis by identifying policy gaps and areas of weakness across the NIST CSF functions 
 
+## Deliverables
 
+- Multi-Framework Compliance
+- Policy Management
+- Auditing
+- Quantitative Analysis
+- Risk Assessment
+- Gap Analysis 
+- Data Visualization
 
 [View the NCSR Project (CSV within GitHub)](./ncsr_uc_system.csv)
 
